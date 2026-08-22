@@ -1,5 +1,15 @@
-<img width="192" height="192" alt="ic_launcher (1)" src="https://github.com/user-attachments/assets/4337bcd1-477e-40ad-86d0-4408f3dc110c" />
-                                                                                                                                          # Stream-flix-Reborn_repository_backup
+
+ 
+ 
+ <img width="192" height="192" alt="ic_launcher (1)" src="https://github.com/user-attachments/assets/4337bcd1-477e-40ad-86d0-4408f3dc110c" />
+                                                                                                                                                  
+  
+  
+  
+  # Stream-flix-Reborn_repository_backup
+
+
+  
 🔄 Versión Reborn - Continuación comunitaria del proyecto original Streamflix Una aplicación de código abierto para Android TV y dispositivos móviles para una interfaz de transmisión educativa, hecha con Android Studio, en Kotlin                                   <img width="4400" height="2475" alt="descarga" src="https://github.com/user-attachments/assets/761abe7e-ac3e-4134-bc84-add619b11e28" />
 
 
