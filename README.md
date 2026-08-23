@@ -1,170 +1,133 @@
-<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/64c87a46-87d8-4275-a9ed-5ab0d10a8556" />
+* [Acerca del proyecto](https://www.google.com/search?q=%23acerca-del-proyecto)
+* [¿Qué es Streamflix Reborn?](https://www.google.com/search?q=%23-qu%C3%A9-es-streamflix-reborn)
+* [Características](https://www.google.com/search?q=%23caracter%C3%ADsticas)
+* [Desarrollado con](https://www.google.com/search?q=%23desarrollado-con)
 
 
-<p align="center">
+* [Primeros pasos](https://www.google.com/search?q=%23primeros-pasos)
+* [Requisitos previos](https://www.google.com/search?q=%23requisitos-previos)
+* [Configuración](https://www.google.com/search?q=%23configuraci%C3%B3n)
 
 
+* [Desarrollo](https://www.google.com/search?q=%23desarrollo)
+* [Cómo contribuir](https://www.google.com/search?q=%23c%C3%B3mo-contribuir)
+* [Aviso legal](https://www.google.com/search?q=%23aviso-legal)
+* [Créditos y autores](https://www.google.com/search?q=%23cr%C3%A9ditos-y-autores)
+* [Licencia](https://www.google.com/search?q=%23licencia)
 
+## Acerca del proyecto
 
+**Streamflix Reborn** es una continuación independiente del proyecto original Streamflix creado por [Lory-Stan TANASI](https://github.com/stantanasi). Esta versión renacida mantiene el mismo propósito educativo y funcionalidad, garantizando un desarrollo y soporte continuos.
 
+### 🔄 ¿Qué es Streamflix Reborn?
 
+* **Continuación independiente**: Esta es una continuación independiente del proyecto original Streamflix.
+* **Misma visión**: Mantiene la filosofía original educativa y de código abierto.
+* **Soporte mejorado**: Desarrollo continuo y corrección de errores por parte de un desarrollador independiente.
+* **Fork respetuoso**: Desarrollado con total respeto hacia el trabajo del creador original.
 
-  <img width="4400" height="2475" alt="screenshot" src="https://github.com/user-attachments/assets/1577b591-5220-4521-b07f-d6f31da2138d" />
+Streamflix Reborn es una aplicación de código abierto para Android TV y dispositivos móviles que proporciona una interfaz de usuario para acceder a contenido de streaming disponible públicamente desde diversos proveedores terceros.
 
-  <br />
-  <strong>🔄 Reborn Version</strong> - Community continuation of the original Streamflix project
-  <br />
-  An open-source Android TV and mobile app for educational streaming interface, made with Android Studio, in Kotlin
-  <br />
-  <a href="https://github.com/streamflix-reborn2/streamflix/releases/latest">
-    <strong>Download app »</strong>
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/streamflix-reborn2/streamflix/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/streamflix-reborn2/streamflix/issues">Request Feature</a>
-</p>
+Esta aplicación está diseñada únicamente con fines educativos y de uso personal. Los usuarios son responsables de asegurarse de contar con la autorización adecuada para acceder a cualquier contenido que visualicen a través de esta aplicación.
 
-<details>
-  <summary>Table of Contents</summary>
+La interfaz agrega contenido de múltiples fuentes y proporciona una forma conveniente de explorar las opciones de streaming disponibles.
 
-- [About the project](#about-the-project)
-  - [What is Streamflix Reborn?](#-what-is-streamflix-reborn2)
-  - [Features](#features)
-  - [Built with](#built-with)
-- [Getting started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-- [Development](#development)
-- [Contributing](#contributing)
-- [Legal Disclaimer](#legal-disclaimer)
-- [Credits & Authors](#credits--authors)
-- [License](#license)
-</details>
+### Características
 
-## About the project
+* Interfaz de código abierto y libre de publicidad
+* Agrega contenido de múltiples proveedores terceros
+* No requiere cuenta para la interfaz de la aplicación
+* Uso exclusivo educativo y personal
+* UI y UX optimizadas
+* Múltiples proveedores
+* Reanudar desde la última posición de reproducción
+* Actualización integrada en la aplicación
 
-<p align="center">
+### Desarrollado con
 
+* [Android Studio](https://developer.android.com/studio)
+* [Kotlin](https://kotlinlang.org)
+* [Retrofit](https://square.github.io/retrofit)
+* [ExoPlayer](https://exoplayer.dev)
+* Leanback
+* Corrutinas
+* Arquitectura MVVM
+* Componentes de arquitectura de Android
 
+## Primeros pasos
 
+### Requisitos previos
 
-</p>
+Instalar [Android Studio](https://developer.android.com/studio)
 
-**Streamflix Reborn** is an independent continuation of the original Streamflix project created by [Lory-Stan TANASI](https://github.com/stantanasi). This reborn version maintains the same educational purpose and functionality while ensuring continued development and support.
+### Configuración
 
-### 🔄 What is Streamflix Reborn?
-
-- **Independent Continuation**: This is an independent continuation of the original Streamflix project
-- **Same Vision**: Maintains the original educational and open-source philosophy
-- **Enhanced Support**: Continued development and bug fixes by an independent developer
-- **Respectful Fork**: Built with full respect for the original creator's work
-
-Streamflix Reborn is an open-source Android TV and mobile app that provides a user interface for accessing publicly available streaming content from various third-party providers.
-
-This app is designed for educational purposes and personal use only. Users are responsible for ensuring they have proper authorization to access any content they view through this application.
-
-The interface aggregates content from multiple sources and provides a convenient way to browse available streaming options.
-
-### Features
-
-- Open-source and ad-free interface
-- Aggregates content from multiple third-party providers
-- No account required for the app interface
-- Educational and personal use only
-- Optimized UI & UX
-- Multiple providers
-- Resume from last playback position
-- In-app update
-
-### Built with
-
-- [Android Studio](https://developer.android.com/studio)
-- [Kotlin](https://kotlinlang.org)
-- [Retrofit](https://square.github.io/retrofit)
-- [ExoPlayer](https://exoplayer.dev)
-- Leanback
-- Coroutines
-- MVVM Architecture
-- Android Architecture Components
-
-
-## Getting started
-
-### Prerequisites
-
-Install [Android Studio](https://developer.android.com/studio)
-
-### Setup
-
-1. Clone the project to your local machine
+1. Clona el proyecto en tu máquina local
 
 ```bash
 git clone https://github.com/streamflix-reborn2/streamflix.git
+
 ```
 
-2. Open the project in Android Studio
+2. Abre el proyecto en Android Studio
 
-## Development
+## Desarrollo
 
-1. Select the device that you want to run the app
+1. Selecciona el dispositivo en el que deseas ejecutar la aplicación
+2. Haz clic en **Run**
 
-2. Click **Run**
+## Cómo contribuir
 
-## Contributing
+Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **muy apreciada**.
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+1. Haz un Fork del proyecto
+2. Crea tu rama para la función (`git checkout -b feature/nueva-funcion`)
+3. Haz Commit de tus cambios (`git commit -m 'feat: add some amazing feature'`)
+4. Haz Push a la rama (`git push origin feature/nueva-funcion`)
+5. Abre un Pull Request
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a pull request
+## Aviso legal
 
-## Legal Disclaimer
+**IMPORTANTE: Esta aplicación es únicamente para uso educativo y personal.**
 
-**IMPORTANT: This application is for educational and personal use only.**
+* Streamflix no aloja, almacena ni distribuye ningún contenido protegido por derechos de autor
+* Todo el contenido proviene de proveedores y sitios web de terceros
+* Los usuarios son los únicos responsables de asegurarse de tener los derechos legales para acceder a cualquier contenido
+* Los desarrolladores no respaldan ni fomentan la infracción de los derechos de autor
+* Los usuarios deben cumplir con todas las leyes aplicables en su jurisdicción
+* Cualquier problema legal debe dirigirse a los proveedores reales del contenido
+* Esta aplicación funciona únicamente como un agregador de motores de búsqueda
+* No se almacena material con derechos de autor en nuestros servidores
 
-- Streamflix does not host, store, or distribute any copyrighted content
-- All content is sourced from third-party providers and websites
-- Users are solely responsible for ensuring they have legal rights to access any content
-- The developers do not endorse or encourage copyright infringement
-- Users must comply with all applicable laws in their jurisdiction
-- Any legal issues should be directed to the actual content providers
-- This app functions as a search engine aggregator only
-- No copyrighted material is stored on our servers
+## Nota legal
 
-## Legal Notice
+Esta aplicación se proporciona "tal cual" con fines educativos. Los desarrolladores:
 
-This application is provided "as is" for educational purposes. The developers:
-- Do not claim ownership of any content
-- Do not profit from copyrighted material
-- Do not control third-party content providers
-- Encourage users to support content creators through legal means
-- Recommend using official streaming services when available
+* No reclaman la propiedad de ningún contenido
+* No obtienen beneficios económicos de material protegido por derechos de autor
+* No controlan a los proveedores de contenido de terceros
+* Animan a los usuarios a apoyar a los creadores de contenido a través de medios legales
+* Recomiendan el uso de servicios oficiales de streaming cuando estén disponibles
 
-## Credits & Authors
+## Créditos y autores
 
-### Original Creator
-- **[Lory-Stan TANASI](https://github.com/stantanasi)** - Original Streamflix project creator
+### Creador original
 
-### Reborn Development
-- **Independent Developer** - Streamflix Reborn maintainer
-- **Special thanks** to the original creator for the excellent foundation
+* **[Lory-Stan TANASI](https://github.com/stantanasi)** - Creador original del proyecto Streamflix
 
-## License
+### Desarrollo de Reborn
 
-This project is licensed under the `Apache-2.0` License - see the [LICENSE](LICENSE) file for details
+* **Desarrollador independiente** - Mantenedor de Streamflix Reborn
+* **Agradecimiento especial** al creador original por la excelente base proporcionada
 
-### Original Project
-<p align="center">
-  <br />
+## Licencia
+
+Este proyecto está bajo la Licencia `Apache-2.0`; consulta el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para obtener más detalles.
+
+### Proyecto original
+
   © 2022 Lory-Stan TANASI. All rights reserved
-</p>
+  
+### Proyecto Reborn
 
-### Reborn Project
-<p align="center">
-  <br />
   © 2025 Streamflix Reborn. Built with respect for the original work.
-</p>
