@@ -102,3 +102,70 @@ Instalar [Android Studio](https://developer.android.com/studio)
 
 ```bash
 git clone [https://github.com/streamflix-reborn2/streamflix.git](https://github.com/streamflix-reborn2/streamflix.git)
+
+Abre el proyecto en Android Studio
+
+Development
+Selecciona el dispositivo en el que deseas ejecutar la aplicación
+
+Haz clic en Run
+
+Contributing
+Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será muy apreciada.
+
+Haz un Fork del proyecto
+
+Crea tu rama para la función (git checkout -b feature/nueva-funcion)
+
+Haz Commit de tus cambios (git commit -m 'feat: add some amazing feature')
+
+Haz Push a la rama (git push origin feature/nueva-funcion)
+
+Abre un Pull Request
+
+Legal Disclaimer
+IMPORTANTE: Esta aplicación es únicamente para uso educativo y personal.
+
+Streamflix no aloja, almacena ni distribuye ningún contenido protegido por derechos de autor
+
+Todo el contenido proviene de proveedores y sitios web de terceros
+
+Los usuarios son los únicos responsables de asegurarse de tener los derechos legales para acceder a cualquier contenido
+
+Los desarrolladores no respaldan ni fomentan la infracción de los derechos de autor
+
+Los usuarios deben cumplir con todas las leyes aplicables en su jurisdicción
+
+Cualquier problema legal debe dirigirse a los proveedores reales del contenido
+
+Esta aplicación funciona únicamente como un agregador de motores de búsqueda
+
+No se almacena material con derechos de autor en nuestros servidores
+
+Legal Notice
+Esta aplicación se proporciona "tal cual" con fines educativos. Los desarrolladores:
+
+No reclaman la propiedad de ningún contenido
+
+No obtienen beneficios económicos de material protegido por derechos de autor
+
+No controlan a los proveedores de contenido de terceros
+
+Animan a los usuarios a apoyar a los creadores de contenido a través de medios legales
+
+Recomiendan el uso de servicios oficiales de streaming cuando estén disponibles
+
+Credits & Authors
+Original Creator
+Lory-Stan TANASI - Creador original del proyecto Streamflix
+
+Reborn Development
+Desarrollador independiente - Mantenedor de Streamflix Reborn
+
+Agradecimiento especial al creador original por la excelente base proporcionada
+
+License
+Este proyecto está bajo la Licencia Apache-2.0; consulta el archivo LICENSE para obtener más detalles.
+
+Original Project
+Reborn Project
