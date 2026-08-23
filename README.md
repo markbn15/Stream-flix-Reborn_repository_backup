@@ -2,7 +2,15 @@
 
 
 <p align="center">
-  <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
+
+
+
+
+
+
+
+  <img width="4400" height="2475" alt="screenshot" src="https://github.com/user-attachments/assets/1577b591-5220-4521-b07f-d6f31da2138d" />
+
   <br />
   <strong>🔄 Reborn Version</strong> - Community continuation of the original Streamflix project
   <br />
