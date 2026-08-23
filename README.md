@@ -1,4 +1,5 @@
-<h1 align="center">Streamflix Reborn</h1>
+<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/64c87a46-87d8-4275-a9ed-5ab0d10a8556" />
+
 
 <p align="center">
   <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
