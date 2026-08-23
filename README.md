@@ -103,6 +103,8 @@ Instalar [Android Studio](https://developer.android.com/studio)
 ```bash
 git clone [https://github.com/streamflix-reborn2/streamflix.git](https://github.com/streamflix-reborn2/streamflix.git)
 
+
+```
 Abre el proyecto en Android Studio
 
 Development
@@ -167,5 +169,33 @@ Agradecimiento especial al creador original por la excelente base proporcionada
 License
 Este proyecto está bajo la Licencia Apache-2.0; consulta el archivo LICENSE para obtener más detalles.
 
-Original Project
+Original Project 
+
+  © 2022 Lory-Stan TANASI. All rights reserved
+
 Reborn Project
+
+  © 2025 Streamflix Reborn. Built with respect for the original work.
+
+
+  Este proyecto en de uso academico , personal y sin anuncios , ni  micro-transacciones asegurate de descargar la aplicacion en sitios autorizados
+
+Como estos :  
+
+```bash
+
+https://github.com/streamflix-reborn2/streamflix
+
+```
+O tambien descargar desde este repositorio
+
+```bash
+
+https://github.com/markbn15/Stream-flix-Reborn_repository_backup
+
+
+```
+
+> [!IMPORTANT]
+> # 🌟 GRACIAS POR APOYAR Y HACER POSIBLE ESTOS TRABAJOS
+> ## ¡AGRADECERÍA SUS ESTRELLAS! ⭐
