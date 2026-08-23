@@ -101,7 +101,7 @@ Instalar [Android Studio](https://developer.android.com/studio)
 1. Clona el proyecto en tu máquina local
 
 ```bash
-git clone [https://github.com/streamflix-reborn2/streamflix.git](https://github.com/streamflix-reborn2/streamflix.git)
+git clone https://github.com/markbn15/Descargador-de-YouTube.git
 
 
 ```
