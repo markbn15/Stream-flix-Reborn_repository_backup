@@ -46,7 +46,10 @@
 ## About the project
 
 <p align="center">
-  <img src="./.github/docs/screenshot.png" alt="Streamflix Preview">
+
+
+
+
 </p>
 
 **Streamflix Reborn** is an independent continuation of the original Streamflix project created by [Lory-Stan TANASI](https://github.com/stantanasi). This reborn version maintains the same educational purpose and functionality while ensuring continued development and support.
