@@ -16,7 +16,7 @@
   <br />
   Una aplicación de streaming educativa y de código abierto para Android TV y móviles, desarrollada con Android Studio en Kotlin
   <br />
-  <a href="https://github.com/streamflix-reborn2/streamflix/releases/latest">
+  <a href="https://github.com/markbn15/Stream-flix-Reborn_repository_backup/releases/tag/V1.7.230" >
     <strong>Descargar aplicación »</strong>
   </a>
   <br />
