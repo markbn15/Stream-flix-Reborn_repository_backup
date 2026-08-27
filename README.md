@@ -1,5 +1,6 @@
-<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/64c87a46-87d8-4275-a9ed-5ab0d10a8556" />
-
+<p align="center">
+  <img src="<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/64c87a46-87d8-4275-a9ed-5ab0d10a8556" /> alt="MarkOS Downloader Logo" width="200">
+</p>
 
 <p align="center">
 
