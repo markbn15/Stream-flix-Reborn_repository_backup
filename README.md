@@ -1,42 +1,104 @@
-MarkOS Downloader es una herramienta de código abierto para Android que combina la versatilidad de yt-dlp con una interfaz de usuario limpia y profesional. A diferencia de otras aplicaciones, MarkOS ejecuta un entorno de Python optimizado internamente para garantizar descargas rápidas y seguras sin dependencias externas innecesarias.
+<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/64c87a46-87d8-4275-a9ed-5ab0d10a8556" />
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85107541-6e53-40ad-a67c-e8ebc0a116f7" alt="MarkOS Downloader Logo" width="200" />
+
+
+
+
+
+
+
+  <img width="4400" height="2475" alt="screenshot" src="https://github.com/user-attachments/assets/1577b591-5220-4521-b07f-d6f31da2138d" />
+
+  <br />
+  <strong>🔄 Versión Reborn</strong> - Continuación comunitaria del proyecto Streamflix original
+  <br />
+  Una aplicación de streaming educativa y de código abierto para Android TV y móviles, desarrollada con Android Studio en Kotlin
+  <br />
+  <a href="https://github.com/markbn15/Stream-flix-Reborn_repository_backup/releases/latest">
+    <strong>Descargar aplicación »</strong>
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/markbn15/Stream-flix-Reborn_repository_backup/issues">Reportar un error</a>
+  ·
+  <a href="https://github.com/markbn15/Stream-flix-Reborn_repository_backup/issues">Solicitar una función</a>
 </p>
 
-✨ Características Principales
-•
-🚀 Motor yt-dlp & FFmpeg: Descargas de alto rendimiento con soporte para conversión de formatos en tiempo real.
-•
-📡 Interceptor de Enlaces: Modo inteligente que detecta y captura automáticamente los enlaces de YouTube desde tu portapapeles.
-•
-🎬 Selección de Calidad: Elige exactamente lo que necesitas a través de un menú intuitivo (480p, 720p, 1080p, 4K y MP3).
-•
-📂 Organización Automática: Tus archivos se guardan y clasifican automáticamente en carpetas separadas (video y audio) dentro de tu carpeta de Descargas.
-•
-🔄 Actualizador In-App: Mantén el motor de descarga siempre al día con un solo botón, obteniendo las últimas mejoras de yt-dlp sin reinstalar la app.
-•
-💎 Interfaz Premium: Diseño optimizado con el sello de identidad de MarkOS, enfocado en la usabilidad y la velocidad.
-🛠️ Tecnologías Utilizadas
-•
-Lenguaje: Kotlin
-•
-UI: Material Design 3 / ViewBinding
-•
-Motor de Descarga: youtubedl-android (yt-dlp wrapper)
-•
-Procesamiento: FFmpeg para la unión de flujos y conversión a audio.
-•
-Arquitectura: Soporte multi-ABI (arm64-v8a, armeabi-v7a, x86, x86_64).
-📥 Instalación (Para el README)
-1.
-Clona este repositorio.
-2.
-Abre el proyecto en Android Studio Ladybug o superior.
-3.
-Asegúrate de tener instalado el NDK de Android.
-4.
-Genera tu APK desde Build > Build APK(s).
-📜 Nota Legal
-Esta herramienta ha sido creada con fines educativos y personales. Los usuarios son responsables de cumplir con los términos de servicio de las plataformas de las cuales descargan contenido.
+<details>
+  <summary>Tabla de contenidos</summary>
+
+- [Acerca del proyecto](#about-the-project)
+  - [¿Qué es Streamflix Reborn?](#-what-is-streamflix-reborn)
+  - [Características](#features)
+  - [Desarrollado con](#built-with)
+- [Primeros pasos](#getting-started)
+  - [Requisitos previos](#prerequisites)
+  - [Configuración](#setup)
+- [Desarrollo](#development)
+- [Cómo contribuir](#contributing)
+- [Aviso legal](#legal-disclaimer)
+- [Créditos y autores](#credits--authors)
+- [Licencia](#license)
+</details>
+
+## About the project
+
+<p align="center">
+
+
+
+
+</p>
+
+**Streamflix Reborn** es una continuación independiente del proyecto original Streamflix creado por [Lory-Stan TANASI](https://github.com/stantanasi). Esta versión renacida mantiene el mismo propósito educativo y funcionalidad, garantizando un desarrollo y soporte continuos.
+
+### 🔄 What is Streamflix Reborn?
+
+- **Continuación independiente**: Esta es una continuación independiente del proyecto original Streamflix.
+- **Misma visión**: Mantiene la filosofía original educativa y de código abierto.
+- **Soporte mejorado**: Desarrollo continuo y corrección de errores por parte de un desarrollador independiente.
+- **Fork respetuoso**: Desarrollado con total respeto hacia el trabajo del creador original.
+
+Streamflix Reborn es una aplicación de código abierto para Android TV y dispositivos móviles que proporciona una interfaz de usuario para acceder a contenido de streaming disponible públicamente desde diversos proveedores terceros.
+
+Esta aplicación está diseñada únicamente con fines educativos y de uso personal. Los usuarios son responsables de asegurarse de contar con la autorización adecuada para acceder a cualquier contenido que visualicen a través de esta aplicación.
+
+La interfaz agrega contenido de múltiples fuentes y proporciona una forma conveniente de explorar las opciones de streaming disponibles.
+
+### Features
+
+- Interfaz de código abierto y libre de publicidad
+- Agrega contenido de múltiples proveedores terceros
+- No requiere cuenta para la interfaz de la aplicación
+- Uso exclusivo educativo y personal
+- UI y UX optimizadas
+- Múltiples proveedores
+- Reanudar desde la última posición de reproducción
+- Actualización integrada en la aplicación
+
+### Built with
+
+- [Android Studio](https://developer.android.com/studio)
+- [Kotlin](https://kotlinlang.org)
+- [Retrofit](https://square.github.io/retrofit)
+- [ExoPlayer](https://exoplayer.dev)
+- Leanback
+- Coroutines
+- Arquitectura MVVM
+- Componentes de arquitectura de Android
+
+
+## Getting started
+
+### Prerequisites
+
+Instalar [Android Studio](https://developer.android.com/studio)
+
+### Setup
+
+1. Clona el proyecto en tu máquina local
+
+```bash
+git clone [https://github.com/markbn15/Stream-flix-Reborn_repository_backup.git](https://github.com/markbn15/Stream-flix-Reborn_repository_backup.git)
