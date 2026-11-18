@@ -1,8 +1,8 @@
 <h1 align="center">Streamflix Reborn</h1>
 
 <p align="center">
-  <img src="<img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/9721d312-acae-46b2-aefa-808ab0ee5ce3" />
-" height="100px" />
+  <img width="192" height="192" alt="ic_launcher" src="https://github.com/user-attachments/assets/ac93cd29-36d5-4a84-869a-fb263ae1393e" />
+
   <br />
   <strong>🔄 Reborn Version</strong> - Community continuation of the original Streamflix project
   <br />
